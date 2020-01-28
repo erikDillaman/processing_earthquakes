@@ -1,3 +1,10 @@
+Code Revisions from Erik -->
+* grayscale added to map to increase color contrast
+* transparency added to earthquake visualizations
+* mapped earthquakes onto a logarithmic scale to better visualize the energy released
+
+
+From Chad Purdy -->
 # Analyzing Earthquake Data in Processing (P5)
 
 In this program, I get data out of a CSV file containing the locations and magnitudes of earthquakes in the past week and plot the locations on a projection of the earth.
